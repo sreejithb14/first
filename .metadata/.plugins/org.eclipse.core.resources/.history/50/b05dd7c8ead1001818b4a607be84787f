@@ -1,0 +1,10 @@
+package test;
+public class Sample1 {
+	Sample1(){
+		
+	}
+	String s="this is a sample file";
+	public static void main(String arg[]) {
+		System.out.println(s);
+	}
+}
